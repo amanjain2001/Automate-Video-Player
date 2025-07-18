@@ -1,0 +1,21 @@
+{
+    "courseSelector": ".sc-cmZgWc",
+    "profile": "#Profile",
+    "myProfile": "//div[contains(text(), 'My profile')]",
+    "firstName": "//input[@data-automation-id='First Name-input']",
+    "lastName": "//input[@data-automation-id='Last Name-input']",
+    "gender": "//button[@data-automation-id='Gender-select-btn']",
+    "selectGender": "span.ms-Label",
+    "aiCourse": "#course-49",
+    "courseLibrary": "//span[contains(@class, 'ms-Pivot-text') and text()='Course Library']",
+    "confirmButton": "//span[contains(text(), 'Confirm')]",
+    "doneButton": "//span[contains(@class, 'ms-Button-label') and text()='Done']",
+    "nextButton": "//p[contains(@class, 'sc-ciEPsU') and text()='Next']",
+    "startTest": "//a[contains(@class, 'start-test-link') and text()='Start Test']",
+    "nextButtonInTest": "//p[contains(@class, 'button-text') and text()='Next']",
+    "submitButtonInTest": "//p[contains(@class, 'button-text') and text()='Submit']",
+    "submitButtonOnPopUp": "//span[contains(@class, 'ms-Button-label') and text()='Submit']",
+    "backtoCourse": "//span[contains(@class, 'ms-Button-label') and text()='Back to the course']",
+    "startFinalAssignment": "//span[contains(@class, 'ms-Button-label') and text()='Start Graded Assessment']",
+    "registerInCourse": "//span[contains(@class, 'ms-Button-label') and text()='Register']"
+}
